@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+order:
+  message: "Welcome to order related QA APIs "
+  contactDetails:
+    name: "Jane Bloggs - QA Lead"
+    email: "jane@tus.com"
+  onCallSupport:
+    - (123) 545-6565
+    - (123) 546-3467

@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+order:
+  message: "Welcome to order related prod APIs "
+  contactDetails:
+    name: "Murphy - Product Owner"
+    email: "murphy@tus.ie"
+  onCallSupport:
+    - (086) 656-8709
+    - (086) 342-0956
